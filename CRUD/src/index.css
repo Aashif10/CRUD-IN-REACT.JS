@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+#gap button{
+  margin-left: 10px;
+}
+/* #gap button:hover{
+  background-color:rgb(158, 214, 214);
+  color: black;
+} */
